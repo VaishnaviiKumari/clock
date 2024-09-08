@@ -10,7 +10,6 @@ function updateClock() {
     
     document.getElementById('time').textContent = timeString;
 }
-
 // Initial call to display clock immediately
 updateClock();
 
